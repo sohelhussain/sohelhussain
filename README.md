@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web developer
 - 📫 How to reach me :- dm on insta https://www.instagram.com/sohelhussain._/
-- this is linkdin account
+- this is linkdin account hi
 
 <!---
 sohelhussain/sohelhussain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
