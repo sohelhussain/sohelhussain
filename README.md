@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sohelhussaing" target="blank"><img src="https://img.shields.io/twitter/follow/sohelhussaing?logo=twitter&style=for-the-badge" alt="sohelhussaing" /></a> </p>
 
-- 👯 I’m looking to collaborate on **MERN stack developer**
+- 👯 I’m looking to collaborate on **MERN stack & BLOCK CHAIN developer**
 
 - 📫 How to reach me **sohelhussaing@gmail.com**
 
